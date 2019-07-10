@@ -9,7 +9,13 @@ This project will include a web app where an emergency worker can input a new me
 
 ## Data:
 - messages.csv
+* id	
+* message	
+* original	
+* genre
 - categories.csv
+* id
+* categories
 
 
 ## Instructions:
