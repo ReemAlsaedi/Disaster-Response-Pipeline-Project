@@ -1,6 +1,6 @@
 # Disaster-Response-Pipeline-Project
 ## Project Overview
-Your project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
+This project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
 
 ## Project Components:
 1. ETL Pipeline
