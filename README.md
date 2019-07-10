@@ -8,12 +8,12 @@ This project will include a web app where an emergency worker can input a new me
 3. Flask Web App
 
 ## Data:
-- messages.csv
+1. messages.csv
 * id	
 * message	
 * original	
 * genre
-- categories.csv
+2. categories.csv
 * id
 * categories
 
