@@ -1,11 +1,18 @@
-# Disaster-Response-Pipeline-Project
+# Disaster Response Pipeline Project
 ## Project Overview
 This project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
 
 ## Project Components:
 1. ETL Pipeline
-2. ML Pipeline
-3. Flask Web App
+ETL Pipeline Preparation.ipynb
+
+2. ML Pipeline:
+ML Pipeline Preparation.ipynb
+
+3. Flask Web App:
+- Process_data.py
+- Train_classifier.py
+- Run.py
 
 ## Data:
 1. messages.csv
