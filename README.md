@@ -4,10 +4,10 @@ This project will include a web app where an emergency worker can input a new me
 
 ## Project Components:
 1. ETL Pipeline
-ETL Pipeline Preparation.ipynb
+- ETL Pipeline Preparation.ipynb
 
 2. ML Pipeline:
-ML Pipeline Preparation.ipynb
+- ML Pipeline Preparation.ipynb
 
 3. Flask Web App:
 - Process_data.py
