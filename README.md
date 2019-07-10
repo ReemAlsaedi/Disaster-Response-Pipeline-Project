@@ -3,7 +3,7 @@
 This project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
 
 ## Project Components:
-1. ETL Pipeline
+1. ETL Pipeline:
 - ETL Pipeline Preparation.ipynb
 
 2. ML Pipeline:
